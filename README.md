@@ -24,7 +24,7 @@ Usage
 To run the project, execute the index.html file.
 
 Run tests
-To run tests, run the following command:
+To run tests, run the following command
 
 Deployment
 You can deploy this project using:
