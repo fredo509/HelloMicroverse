@@ -1,81 +1,170 @@
-📗 Table of Contents
-    📖 About the Project
-        🛠 Built With
-            Tech Stack
 
-            🚀 Live Demo
-    💻 Getting Started
-        Setup
-        Prerequisites
-        Install
-        Usage
-        Run tests
-    
-    👥 Authors
-    🔭 Future Features
-    🤝 Contributing
-    ⭐️ Show your support
-    🙏 Acknowledgements
-    📝 License
+<div align="center">
+  
+  <img src="https://th.bing.com/th/id/R.a1ad4c49cb64118aaa6a88f9e228c893?rik=K7SHuiUioES0lw&pid=ImgRaw&r=0" alt="logo" width="140"  height="auto" />
+  <br/>
+
+  <h3><b>Hello Microverse README Template</b></h3>
+
+</div>
 
 
-📖 [HELLO  MICROVERSE]
 
-Hello microverse is a program that displaysa microverse greeting page.
+# 📗 Table of Contents
 
-🛠 Built With
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [📝 License](#license)
 
-    Tech Stack
-
-    Client
-     --HTML
-     --CSS
 
 
-💻 Getting Started
+# 📖 [Hello_Microverse] <a name="about-project"></a>
+
+
+
+**[Hello_Microverse]** is a app who display a greeting to Microverse
+
+## 🛠 Built With <a name="built-with"></a>
+
+### Tech Stack <a name="tech-stack"></a>
+
+
+
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="">HTML</a></li>
+     <li><a href="">CSS</a></li>
+  </ul>
+</details>
+
+
+
+
+
+### Key Features <a name="key-features"></a>
+
+
+
+- **[Display_information]**
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+
+
+- [Live Demo Link](https://fredo509.github.io/HelloMicroverse/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+
 
 To get a local copy up and running, follow these steps.
 
-Prerequisites
+### Prerequisites
+
 In order to run this project you need:
 
-Setup
+Open the index.html file.
+
+### Setup
+
 Clone this repository to your desired folder:
 
-Usage
-To run the project, execute the index.html file.
+
+Example commands:
+
+```sh
+  cd my-folder
+  gh repo clone fredo509/HelloMicroverse
+```
 
 
 
-
-👤 Author
-
-GitHub: @fredo509
-Twitter: @fredo_st_fleur
-LinkedIn: Fredo st fleur
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-🔭 Future Features
-- Add  "Say Hello" button
+
+## 👥 Authors <a name="authors"></a>
 
 
-🤝 Contributing
+
+👤 **Author1**
+
+- GitHub: [@fredo509](https://github.com/fredo509)
+- Twitter: [@fredo_st_fleur](https://twitter.com/Fredo_st_fleur?t=OEPwMJjspBTEnTevArv0HA&s=09)
+- LinkedIn: [Fredo st fleur](https://www.linkedin.com/in/fredo-st-fleur-0b41a122a)
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+## 🔭 Future Features <a name="future-features"></a>
+
+
+
+- [ ] **[Add_button]**
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## 🤝 Contributing <a name="contributing"></a>
+
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the issues page.
+Feel free to check the [issues page](../../issues/).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
-⭐️ Show your support
-    If you like this project please give me a star .
-
-🙏 Acknowledgments
-    I would like to thank mmicroverse for this beautiful project
-
-
-📝 License
-    This project is MIT licensed.
+## ⭐️ Show your support <a name="support"></a>
 
 
 
+If you like this project please give me a star
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank microverse for this beautiful project
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
