@@ -1,11 +1,10 @@
 
 <div align="center">
   
-  <img src="hello.png" alt="logo" width="140"  height="auto" />
+  <img src="hello.png" alt="logo" width="140"  height="auto"/>
   <br/>
 
   <h3><b>Hello Microverse README Template</b></h3>
-
 </div>
 
 
