@@ -1,0 +1,13 @@
+body {
+  height: 100vh;
+  margin: 0%;
+  padding: 0%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+body h1 {
+  font-size: 200%;
+  color: rgb(81, 81, 236);
+}
