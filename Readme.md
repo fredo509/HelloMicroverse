@@ -1,7 +1,7 @@
 
 <div align="center">
   
-  <img src="https://th.bing.com/th/id/R.a1ad4c49cb64118aaa6a88f9e228c893?rik=K7SHuiUioES0lw&pid=ImgRaw&r=0" alt="logo" width="140"  height="auto" />
+  <img src="hello.png" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>Hello Microverse README Template</b></h3>
